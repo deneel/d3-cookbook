@@ -7,14 +7,14 @@
     "d3",
     "cookbook"
   ],
-  "homepage": "http://nickqizhu.github.com/d3-cookbook/",
+  "homepage": "http://deneel.github.com/d3-cookbook/",
   "author": {
-    "name": "Nick Zhu",
-    "url": "http://nzhu.blogspot.ca/"
+    "name": "deneel",
+    "url": "#"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NickQiZhu/d3-cookbook.git"
+    "url": "https://github.com/deneel/d3-cookbook.git"
   },
   "dependencies": {
       "d3":"3.0.x"
